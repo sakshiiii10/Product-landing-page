@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 80vw;
+}
+.navbar{
+    display: flex;
+    height: 67px;
+    font-family: 'Roboto', sans-serif;
+}
+.navbar li{
+    list-style-type: none;
+    margin: 0 12px;
+}
+.topleft{
+    width: 50%;
+    height: 50vh;
+}
+.topleft{
+    height: 50vh;
+    width: 50%;
+}
+.section1{
+    max-height: 100vh;
+}
+.section2{
+    font-size: 1rem;
+    padding-left: 63px;
+    padding-right: 63px;
+}
